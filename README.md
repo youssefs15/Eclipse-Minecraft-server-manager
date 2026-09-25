@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="MinecraftServerManager/Assets/eclipse-256.png" alt="Eclipse logo" width="128" />
+<img src="/Assets/eclipse-256.png" alt="Eclipse logo" width="128" />
 
 # Eclipse
 ### The Minecraft Server Manager
@@ -137,7 +137,7 @@ Remove API keys, access tokens, public IP addresses, and other private details b
 If Eclipse makes managing your servers easier, you can help fund maintenance, fixes, and future development.
 
 <a href="https://ko-fi.com/youssefs15">
-  <img src="MinecraftServerManager/Assets/KofiLogo.webp" alt="Support Eclipse on Ko-fi" width="48" />
+  <img src="/Assets/KofiLogo.webp" alt="Support Eclipse on Ko-fi" width="48" />
 </a>
 
 **[Support Eclipse on Ko-fi](https://ko-fi.com/youssefs15)**
